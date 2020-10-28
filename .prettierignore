@@ -1,0 +1,17 @@
+node_modules
+.next
+yarn.lock
+package-lock.json
+public
+.eslintrc.js
+.prettierrc.js
+next-env.d.ts
+styles
+tsconfig.json
+typings.d.ts
+.babelrc
+README.md
+next.config.js
+package.json
+
+

@@ -1,0 +1,13 @@
+{
+  "presets": ["next/babel"],
+  // "plugins": [
+  //   [
+  //     "import",
+  //     {
+  //       "libraryName": "antd",
+  //       "style": true
+  //     }
+  //   ]
+  // ],
+  "plugins": [["react-native-web", { "commonjs": true }]]
+}
